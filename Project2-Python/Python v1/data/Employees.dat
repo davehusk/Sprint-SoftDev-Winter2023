@@ -1,0 +1,11 @@
+Driver Number,Name,Address,Phone Number,License Number,Expiry Date,Insurance Company,Policy Number,Owns Car,Balance Due
+1922,Dave,1 Main St,7097091234,699,2024-08-24,Husk Insurance,6969,True,525.0
+1933,Sarah,2 Elm St,7097095678,755,2024-09-15,Shield Insurance,7888,False,0
+1944,John,3 Oak St,7097099876,812,2023-12-31,Guardian Insurance,7123,True,525.0
+1955,Lisa,4 Birch St,7097094321,648,2024-11-20,SafeDrive Insurance,6555,True,525.0
+1966,Mike,5 Cedar St,7097098765,701,2024-10-05,Protect Insurance,8246,True,525.0
+1977,Emily,6 Willow St,7097093456,633,2024-07-15,Guard Insurance,9999,True,525.0
+1988,Chris,7 Pine St,7097097890,734,2024-12-30,SafetyNet Insurance,1234,False,0
+1999,Susan,8 Maple St,7097096543,777,2024-09-28,SecureDrive Insurance,4567,True,525.0
+2000,James,9 Redwood St,7097092345,809,2024-06-19,Guardian Insurance,3456,True,525.0
+2005,Noah,123 Cow Rd,7091117443,969,2024-0705,Husky Liability,0824,True,525.0

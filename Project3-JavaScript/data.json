@@ -1,0 +1,33 @@
+[
+      {
+        "name": "John",
+        "age": 25,
+        "city": "New York",
+        "active": true
+      },
+      {
+        "name": "Alice",
+        "age": 30,
+        "city": "San Francisco",
+        "active": false
+      },
+      {
+        "name": "Bob",
+        "age": 22,
+        "city": "Los Angeles",
+        "active": true
+      },
+      {
+        "name": "Eve",
+        "age": 28,
+        "city": "Chicago",
+        "active": false
+      },
+      {
+        "name": "Charlie",
+        "age": 35,
+        "city": "Seattle",
+        "active": true
+      }
+    ]
+    
